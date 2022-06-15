@@ -1,4 +1,4 @@
-# erabbit-vue3
+# little-rabbit-fresh-mall
 
 ## Project setup
 ```
